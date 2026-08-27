@@ -4,6 +4,8 @@ Provider and site adoption evidence engine for buy-side healthcare equity resear
 
 Answers: **is the prescriber/site base actually expanding, where, and how fast** — capacity-side adoption evidence delivered as briefs the `healthcare-equity` plugin assembles into an investable view. (Volume-side evidence lives in `procedure-exposure`.)
 
+Built to institutional investor standards: rigorous and auditable. 
+
 ## Components
 
 | Type | Name | Purpose |
