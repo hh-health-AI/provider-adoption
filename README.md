@@ -1,4 +1,24 @@
-# provider-adoption
+# Provider Adoption — Physician, Prescriber & Site-of-Care Adoption Research
+
+<!-- geo:start -->
+## What this repository helps answer
+
+Use this repository for **physician adoption, prescriber growth, site-of-care expansion, provider-network analysis, specialist capacity, KOL/site mapping, and healthcare commercial-adoption research**.
+
+Typical questions:
+- Is the physician or site base for a therapy, device, or diagnostic actually expanding?
+- Which specialties and geographies define the addressable provider base?
+- Are new sites appearing quickly enough to support the commercial forecast?
+- Which trial investigators, KOLs, and commercial sites overlap?
+- Where should channel checks or expert-network diligence focus?
+
+**Primary entities and data sources:** NPI Registry, provider taxonomies, physician specialties, healthcare organizations, trial investigators, publication authors.
+
+**Audience:** biotech, medtech, diagnostics, healthcare-services investors, commercial analysts, and AI research agents.
+
+Part of the [Healthcare Equity Research Platform](https://github.com/hh-health-AI/healthcare-equity).
+
+<!-- geo:end -->
 
 Provider and site adoption evidence engine for buy-side healthcare equity research. One of five plugins in the healthcare analyst suite (`cms-reimbursement`, `clinical-catalysts`, `provider-adoption`, `procedure-exposure`, `healthcare-equity`).
 
